@@ -1,0 +1,6 @@
+endpoint: YOUR ENDPOINT
+key: YOUR KEY
+timezoneOffset: 0
+verbose: true
+spellCheck: false
+staging: false
