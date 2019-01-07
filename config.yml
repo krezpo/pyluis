@@ -1,7 +1,9 @@
 appid: YOUR APP ID
 endpoint: YOUR ENDPOINT
 key: YOUR KEY
+versionid: 0.1
 timezoneOffset: 0
 verbose: true
 spellCheck: false
 staging: false
+intentsfile: intents.json
